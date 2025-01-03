@@ -64,7 +64,6 @@ Developed by: OBELESH R RegisterNumber: 24901123
 ![Screenshot 2025-01-03 175913](https://github.com/user-attachments/assets/7097bee9-6b05-4764-bb78-e9758f57656c)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-
 ![Screenshot 2025-01-03 175925](https://github.com/user-attachments/assets/08a30d10-c0fb-44ad-9609-3ccc10c1eee1)
 
 **TRUTH TABLE**
