@@ -61,9 +61,13 @@ Developed by: OBELESH R RegisterNumber: 24901123
 */
 
 **RTL LOGIC UP COUNTER**
+![Screenshot 2025-01-03 175913](https://github.com/user-attachments/assets/7097bee9-6b05-4764-bb78-e9758f57656c)
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![Screenshot 2025-01-03 175925](https://github.com/user-attachments/assets/08a30d10-c0fb-44ad-9609-3ccc10c1eee1)
 
 **TRUTH TABLE**
+![Screenshot 2025-01-03 175943](https://github.com/user-attachments/assets/2e86c180-00b3-4fd5-9491-32e2c46b4033)
 
 **RESULTS**
+Thus the Synchronous 3 bit Up counter is implemeted and verified.
