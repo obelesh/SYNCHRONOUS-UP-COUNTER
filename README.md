@@ -71,4 +71,5 @@ Developed by: OBELESH R RegisterNumber: 24901123
 ![Screenshot 2025-01-03 175943](https://github.com/user-attachments/assets/2e86c180-00b3-4fd5-9491-32e2c46b4033)
 
 **RESULTS**
+
 Thus the Synchronous 3 bit Up counter is implemeted and verified.
